@@ -41,7 +41,7 @@ The 10 categories are:
 ## 🚀 How to Run the Notebook
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cnn-cifar10.git
+git clone https://github.com/ridhin006/CNN.git
 cd cnn-cifar10
 
 # Install dependencies
